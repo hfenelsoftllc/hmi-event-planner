@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'hmi-event-planner';
+  title = 'Haitian Music Industry - Event Planner';
 }
